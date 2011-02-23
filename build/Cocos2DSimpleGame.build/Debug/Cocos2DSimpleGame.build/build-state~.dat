@@ -1,0 +1,63 @@
+TCocos2DSimpleGame
+v7
+r1
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/Resources/Default.png
+c000000004D0A560700000000000077AB
+t1292523015
+s30635
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/Resources/Icon.png
+c000000004D0A5607000000000000246F
+t1292523015
+s9327
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/Resources/fps_images.png
+c000000004D0A5607000000000000183B
+t1292523015
+s6203
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app
+t2
+s0
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/Info.plist
+t2
+s0
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/Resources/fps_images.png
+t2
+s0
+
+NResources/Info.plist
+c000000004D0A5607000000000000038E
+t1292523015
+s910
+
+CCpResource build/Debug/Cocos2DSimpleGame.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/Cocos2DSimpleGame.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/Cocos2DSimpleGame.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CProcessInfoPlistFile /Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app/Contents/Info.plist Resources/Info.plist
+r0
+
+CTouch /Users/kevin/Documents/Cocos2DSimpleGame/build/Debug/Cocos2DSimpleGame.app
+r0
+
